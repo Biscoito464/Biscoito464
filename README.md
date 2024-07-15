@@ -1,7 +1,6 @@
 # Hello! Welcome to my Github profile, my name is Caetano!
 
-
- Front-end programming student who is entering the job market and would like a job opportunity that will allow me to make the most of any task I put in my hands
+I´m Front-end programming student who is entering the job market and would like a job opportunity that will allow me to make the most of any task I put in my hands
 
 </div>![octocat-1721054413472](https://github.com/user-attachments/assets/e002e3e1-7b38-4d63-9df5-a5ebe1d34867)
 
