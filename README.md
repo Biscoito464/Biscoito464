@@ -8,6 +8,8 @@ I´m Front-end programming student who is entering the job market and would like
 - 🌱 I’m currently learning about JavaScript
 - 👯 I’m looking to collaborate on a project
 
+![Snake animation](https://github.com/Biscoito464/Biscoito464/blob/output/github-contribution-grid-snake.svg)
+
 
 ## Ferramentos e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
