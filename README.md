@@ -17,7 +17,7 @@ I´m Front-end programming student who is entering the job market and would like
 <a href="https://www.linkedin.com/in/caetano-tagliari-751158291" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-
+## Proficiencies
 <div>
 <a href="(https://github.com/Biscoito464)">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biscoito464&layout=compact&langs_count=7&theme=dracula"/>
