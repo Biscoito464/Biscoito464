@@ -2,7 +2,7 @@
 
 I´m Front-end programming student who is entering the job market and would like a job opportunity that will allow me to make the most of any task I put in my hands
 
-<img src="https://github.com/user-attachments/assets/e002e3e1-7b38-4d63-9df5-a5ebe1d34867" />
+<img loading="lazy" src="https://github.com/user-attachments/assets/e002e3e1-7b38-4d63-9df5-a5ebe1d34867" />
 
 
 - 🌱 I’m currently learning about JavaScript
@@ -12,7 +12,7 @@ I´m Front-end programming student who is entering the job market and would like
 
 
 ## Ferramentos e Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
 ## Contatos:
 
