@@ -1,5 +1,5 @@
-# Hello! Welcome to my Github profile.
-# My name is Caetano!
+# Hello! Welcome to my Github profile, my name is Caetano!
+
 
  Front-end programming student who is entering the job market and would like a job opportunity that will allow me to make the most of any task I put in my hands
 
