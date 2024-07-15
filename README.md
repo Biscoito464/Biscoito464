@@ -1,7 +1,7 @@
-## Hello! Welcome to my Github profile.
-## My name is Caetano!
+# Hello! Welcome to my Github profile.
+# My name is Caetano!
 
-## Front-end programming student who is entering the job market and would like a job opportunity that will allow me to make the most of any task I put in my hands
+ Front-end programming student who is entering the job market and would like a job opportunity that will allow me to make the most of any task I put in my hands
 
 </div>![octocat-1721054413472](https://github.com/user-attachments/assets/e002e3e1-7b38-4d63-9df5-a5ebe1d34867)
 
@@ -11,11 +11,7 @@
 
 
 ## Ferramentos e Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
 ## Contatos:
 
