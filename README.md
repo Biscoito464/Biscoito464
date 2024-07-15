@@ -2,7 +2,7 @@
 
 I´m Front-end programming student who is entering the job market and would like a job opportunity that will allow me to make the most of any task I put in my hands
 
-<img loading="lazy" src="https://github.com/user-attachments/assets/e002e3e1-7b38-4d63-9df5-a5ebe1d34867" width="100" height="100" />
+<img loading="lazy" src="https://github.com/user-attachments/assets/e002e3e1-7b38-4d63-9df5-a5ebe1d34867" width="200" height="200" />
 
 
 - 🌱 I’m currently learning about JavaScript
